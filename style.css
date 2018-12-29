@@ -77,3 +77,8 @@ header.startup h1 {
   opacity: .3;*/
   height: 84px;
 }
+
+#mc_embed_signup{
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+}
